@@ -1,9 +1,0 @@
-.nav-link:active, .nav-link:focus {
-  color: green !important; /* Use !important to override Bootstrap's styles */
-}
-
-form span.inputErrorText { color: red; }
-
-form .inputError { border: red solid 2px; background-color: lightgrey; }
-
-input:invalid { border: red solid 2px; background-color: yellow; }
